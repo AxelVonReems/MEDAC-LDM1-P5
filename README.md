@@ -1,8 +1,8 @@
-### MEDAC DAW 1
+# MEDAC DAW 1
 
 ## Lenguajes de marcas y sistemas de gestión de información
 
-# Practica 5. Diseño web responsive
+### Practica 5. Diseño web responsive
 
 Es una página similar a Muy Interesante que se adapte a escritorio, tablet y móvil.
 
