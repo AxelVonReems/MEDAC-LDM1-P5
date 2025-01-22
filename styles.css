@@ -69,11 +69,11 @@ footer {
 /* General Article Settings */
 
 .article_author {
-    color: rgb(139, 139, 139);
+    color: #8b8b8b;
     font-size: 0.8rem;
 }
 .article_separator {
-    color: rgb(139, 139, 139);
+    color: #8b8b8b;
 }
 
 /* Main Article Settings */
@@ -101,8 +101,8 @@ footer {
     padding: 0 0.5rem 0 0.5rem;
 }
 .main_article_theme {
-    color: rgb(139, 139, 139);
-    text-decoration: underline rgb(227, 47, 47);
+    color: #8b8b8b;
+    text-decoration: underline #861117;
     text-transform: uppercase;
     font-size: 1rem;
 }
@@ -122,8 +122,8 @@ footer {
     width: 100%;
 }
 .normal_article_theme {
-    color: rgb(139, 139, 139);
-    text-decoration: underline rgb(227, 47, 47);
+    color: #8b8b8b;
+    text-decoration: underline #861117;
     text-transform: uppercase;
     font-size: 0.8rem;
 }
