@@ -103,6 +103,7 @@ footer {
 .main_article_theme {
     color: #8b8b8b;
     text-decoration: underline #861117;
+    -webkit-text-decoration: underline #861117;
     text-transform: uppercase;
     font-size: 1rem;
 }
@@ -124,6 +125,7 @@ footer {
 .normal_article_theme {
     color: #8b8b8b;
     text-decoration: underline #861117;
+    -webkit-text-decoration: underline #861117;
     text-transform: uppercase;
     font-size: 0.8rem;
 }
